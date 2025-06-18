@@ -64,6 +64,7 @@ git clone https://github.com/Car-Price-Prediction/car-price-prediction.git
 cd car-price-prediction
 pip install -r requirements.txt
 python app.py
+
 Option 2: Using Streamlit
 bash
 Copy
